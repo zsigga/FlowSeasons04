@@ -1,0 +1,602 @@
+id;user;password;permission;name;sex;cat;season1;season2;season3;SUM
+0;admin;admin;admin;Kucsera Bálint;Man;;;;;0
+1;user1;5561;standard;Horváth- Kenéz Zselyke;Woman;U14;1190;1116.1;2301.1;4607.2
+2;user2;4827;standard;Molnár Zita;Woman;U14;;;432.2;432.2
+3;user3;4117;standard;Kovacs Eliza Janka;Woman;U14;171;;0;171
+4;user4;7474;standard;Kocsis-Kis Réka;Woman;U14;;;95.5;95.5
+5;user5;3983;standard;Fodor Maja Zoé;Woman;U10;895.8;;1299.1;2194.9
+6;user6;1857;standard;;;;;;0;0
+7;user7;6440;standard;Emilia Migacz;Woman;U14;2979.6;;;2979.6
+8;user8;9985;standard;Tóth Vince;Man;U16;1404.9;;2605.5;4010.4
+9;user9;2124;standard;Pszota Örs;Man;U12;935.6;1588.9;2122.2;4646.7
+10;user10;8418;standard;Ésik Ádám;Man;U16;1281.9;;;1281.9
+11;user11;9635;standard;;;;;;0;0
+12;user12;5374;standard;Filinger Nóri;Woman;U16;1593.7;4140;3963.8;9697.5
+13;user13;1789;standard;Budai Liza Barbara;Woman;U10;1233.4;1284;;2517.4
+14;user14;7506;standard;Nosal Zétény;Man;U10;1196.7;1295.1;1655.4;4147.2
+15;user15;4898;standard;Alföldi András;Man;U12;703;;938.9;1641.9
+16;user16;1143;standard;;;;;;;0
+17;user17;4836;standard;Polgár Nóra;Woman;U12;617.5;;;617.5
+18;user18;9319;standard;;;;;;0;0
+19;user19;5630;standard;Csaba Koppány Krisztián;Man;U16;985.8;3790;1305.5;6081.3
+20;user20;2969;standard;;;;;;0;0
+21;user21;3892;standard;Dudás Máté;Man;U12;531.2;;;531.2
+22;user22;7878;standard;;;;;;0;0
+23;user23;6465;standard;Gódor Enikõ;Woman;U14;1380.1;1377.2;2292.8;5050.1
+24;user24;7091;standard;;;;;;0;0
+25;user25;6678;standard;Tóth Viki;Woman;U14;1820.3;4674.7;;6495
+26;user26;4158;standard;;;;;;0;0
+27;user27;3656;standard;Storch Paul;Man;nyilt;314.1;;0;314.1
+28;user28;5287;standard;Gajárszki Áron;Man;senior;103.5;;83.6;187.1
+29;user29;9040;standard;Szigethy Róbert;Man;hobby;203.5;;;203.5
+30;user30;8066;standard;Selmeczy Péter;Man;U14;582.1;1143.5;1010.9;2736.5
+31;user31;3491;standard;Kerry Ella;Woman;nyilt;343.9;;460.9;804.8
+32;user32;3561;standard;;;;;;0;0
+33;user33;3694;standard;Waltner Emma;Woman;U10;958.3;;;958.3
+34;user34;7195;standard;Szalai Sándor;Man;nyilt;303.7;;;303.7
+35;user35;5663;standard;Szamosi András;Man;nyilt;127.9;130.9;232.5;491.3
+36;user36;7986;standard;Csáky Liza Maja;Woman;hobby;143.2;;;143.2
+37;user37;3511;standard;;;;;;0;0
+38;user38;4760;standard;;;;;;0;0
+39;user39;2577;standard;Sarkadi Ákos;Man;nyilt;346.5;;;346.5
+40;user40;9448;standard;Turai Péter;Man;nyilt;206.3;;;206.3
+41;user41;4139;standard;Nia Jamnikar;Woman;U12;1453.2;;;1453.2
+42;user42;1485;standard;Gódor Miklós;Man;senior;226.1;323.8;263.9;813.8
+43;user43;3334;standard;Kristian Juri?;Man;hobby;132.7;;0;132.7
+44;user44;3682;standard;Csigi Móni;Woman;senior;106.2;96.3;;202.5
+45;user45;6286;standard;user45;Man;kezdo;53.1;;0;53.1
+46;user46;5559;standard;Kukoda Károly;Man;senior;118.9;96.3;80.2;295.4
+47;user47;2955;standard;Bakurecz Ádám;Man;nyilt;1724.4;1421.5;1458.1;4604
+48;user48;5949;standard;user48;Woman;kezdo;67.9;;0;67.9
+49;user49;3138;standard;Szabó Zsombor;Man;U12;1191.2;;;1191.2
+50;user50;3292;standard;Ottinger Nóra;Woman;hobby;106;;;106
+51;user51;8395;standard;Sebõk Aliz;Woman;U12;424.8;1322.2;817.3;2564.3
+52;user52;4342;standard;Czimbula Beni;Man;U12;769.5;;;769.5
+53;user53;1247;standard;Váradi Péter Tamás;Man;hobby;101.8;99.3;;201.1
+54;user54;8956;standard;;;;;;0;0
+55;user55;6639;standard;;;;;;0;0
+56;user56;8406;standard;Fücsek Mirkó;Man;U10;1042;;1642.9;2684.9
+57;user57;8090;standard;Herbay Máté;Man;hobby;258.4;;165.5;423.9
+58;user58;3960;standard;Szász Krisztián;Man;nyilt;377.7;339.7;287.5;1004.9
+59;user59;3426;standard;;;;;;0;0
+60;user60;6466;standard;Juhász Ilona;Woman;U10;1198.8;1284;1384.5;3867.3
+61;user61;3017;standard;;;;;;0;0
+62;user62;6099;standard;;;;;;0;0
+63;user63;2558;standard;Csohány Csaba;Man;nyilt;262.8;223.3;;486.1
+64;user64;6926;standard;Silva Vivien;Woman;hobby;137;;0;137
+65;user65;3500;standard;;;;;;0;0
+66;user66;1714;standard;;;;;;0;0
+67;user67;1175;standard;Farkas Ábel;Man;hobby;143.1;;;143.1
+68;user68;5585;standard;Fiath Armin;Man;nyilt;279.7;536.2;0;815.9
+69;user69;4246;standard;Gál Zoltán;Man;nyilt;258.1;;;258.1
+70;user70;6347;standard;Pagonyi Máté;Man;nyilt;209.1;;;209.1
+71;user71;7670;standard;;;;;;0;0
+72;user72;2752;standard;Kovács Bertalan;Man;hobby;108.1;;;108.1
+73;user73;7364;standard;Fakan Lilien;Woman;kezdo;102.3;85.3;0;187.6
+74;user74;7579;standard;;;;;;0;0
+75;user75;9233;standard;Hegyi Natália;Woman;kezdo;91.7;;;91.7
+76;user76;3265;standard;;;;;;;0
+77;user77;7123;standard;Gallai Beatrix;Woman;senior;142.4;121.1;120.4;383.9
+78;user78;4428;standard;Trenka Jusztin;Man;hobby;121.2;;0;121.2
+79;user79;3289;standard;Szekeres Hanna;Woman;U12;791.3;1555.6;1111.1;3458
+80;user80;8799;standard;Hámori Peti;Man;nyilt;793.4;;;793.4
+81;user81;1061;standard;;;;;;0;0
+82;user82;7545;standard;Lõvey Tamás;Man;nyilt;281.7;;;281.7
+83;user83;7839;standard;Prinz Áron Dániel;Man;U14;1957.4;1343.5;;3300.9
+84;user84;2780;standard;Krämer Glória;Woman;kezdo;87.4;;;87.4
+85;user85;1544;standard;Nosal Benedek;Man;U12;645.8;1322.2;927.8;2895.8
+86;user86;7780;standard;Csorba Gergely;Man;senior;102.3;91.7;79.2;273.2
+87;user87;6397;standard;Pszota Kolos;Man;U10;1196.7;1274;1384.5;3855.2
+88;user88;2992;standard;Mecseki András;Man;hobby;117.5;;;117.5
+89;user89;5376;standard;;;;;;0;0
+90;user90;4786;standard;;;;;;0;0
+91;user91;3186;standard;Kalmár Csenge;Woman;U10;1229.2;1196.7;1417.6;3843.5
+92;user92;4624;standard;;;;;;0;0
+93;user93;2120;standard;Hlavaty Sára Klára;Woman;U14;739.1;2620;;3359.1
+94;user94;9252;standard;;;;;;0;0
+95;user95;7311;standard;Áll Zalán;Man;U12;464.1;1555.6;935.4;2955.1
+96;user96;3249;standard;;;;;;0;0
+97;user97;7786;standard;Kovacs Vivien Luca;Woman;U10;1057.5;1196.7;;2254.2
+98;user98;8878;standard;Orlai Dana;Woman;U14;736.1;;;736.1
+99;user99;7371;standard;Bliszkó Péter Albert;Man;U12;;1327.8;829.9;2157.7
+100;user100;5226;standard;Sz. V. Lilla;Woman;U14;1169.6;780.5;;1950.1
+101;user101;2149;standard;;;;;;0;0
+102;user102;7339;standard;Medgyesi Ádám;Man;U12;580.7;;;580.7
+103;user103;5972;standard;Erdélyi Szofi;Woman;U12;218.6;;;218.6
+104;user104;5639;standard;Kováts Bálint;Man;U12;1392.2;;;1392.2
+105;user105;1144;standard;Nardai Bálint;Man;nyilt;568.8;;228.9;797.7
+106;user106;1402;standard;;;;;;0;0
+107;user107;9626;standard;Krizsán Veronika;Woman;nyilt;275;282.9;389.3;947.2
+108;user108;9363;standard;Bótyik Barabás;Man;hobby;114;91.7;;205.7
+109;user109;5518;standard;Pintér Tomi;Man;nyilt;164.8;137.1;251.7;553.6
+110;user110;3882;standard;Hieu Vo;Man;kezdo;81.7;;0;81.7
+111;user111;9953;standard;Gréta;Woman;senior;76.3;;;76.3
+112;user112;7894;standard;Riggio Michele;Man;nyilt;554.5;546.6;430.2;1531.3
+113;user113;3014;standard;Szternák Nóra;Woman;senior;91.7;90.4;;182.1
+114;user114;9677;standard;Csorba Gergõ;Man;hobby;121.5;127.9;134.6;384
+115;user115;5772;standard;Debreceni Bálint;Man;hobby;85.3;;;85.3
+116;user116;1880;standard;;;;;;0;0
+117;user117;9280;standard;Krizsán Eszter;Woman;nyilt;212.6;187.3;;399.9
+118;user118;8031;standard;Horváth Hunor;Man;hobby;99.9;108.2;77;285.1
+119;user119;4625;standard;;;;;;0;0
+120;user120;6412;standard;;;;;;0;0
+121;user121;6648;standard;;;;;;0;0
+122;user122;6500;standard;Szalmás Márton Tamás;Man;hobby;150.8;;;150.8
+123;user123;9921;standard;Tóth Péter;Man;kezdo;87.2;;67.1;154.3
+124;user124;5912;standard;Scharnitzky Adam;Man;nyilt;301.2;;335.3;636.5
+125;user125;2206;standard;;;;;;0;0
+126;user126;3401;standard;;;;;;0;0
+127;user127;9812;standard;Dr. Fekete Anna;Woman;nyilt;176.2;;0;176.2
+128;user128;5340;standard;;;;;;0;0
+129;user129;3891;standard;Tóth Norbert;Man;senior;114;85.8;;199.8
+130;user130;1876;standard;Tarnóczi Gellért;Man;hobby;180.1;;;180.1
+131;user131;8622;standard;Szûcs Laura;Woman;kezdo;103.8;;0;103.8
+132;user132;7085;standard;user132;Woman;hobby;102.5;;0;102.5
+133;user133;3539;standard;;;;;;0;0
+134;user134;7974;standard;;;;;;0;0
+135;user135;5551;standard;Sebu;Man;kezdo;92.4;;0;92.4
+136;user136;3085;standard;user136;Man;hobby;229.3;;0;229.3
+137;user137;1367;standard;Catus;Woman;kezdo;37.4;;0;37.4
+138;user138;5400;standard;Sebõk Rózsa;Woman;nyilt;186.4;114;157.7;458.1
+139;user139;2304;standard;Al-Nuwaihi Dániel;Man;hobby;120.3;;;120.3
+140;user140;8922;standard;Lay Viki;Woman;hobby;84.5;;0;84.5
+141;user141;9452;standard;user141;Man;hobby;104.9;;0;104.9
+142;user142;1204;standard;Novák Tünde Anna;Woman;nyilt;288.7;;115;403.7
+143;user143;1659;standard;Kucsera Lenke;Woman;nyilt;340.8;307;310.6;958.4
+144;user144;7954;standard;Pallos Gabrriella;Woman;senior;102.3;;0;102.3
+145;user145;7890;standard;Barnabás Ürmössy;Man;hobby;122;99.3;103.6;324.9
+146;user146;7457;standard;Molnár Kristóf;Man;hobby;151;129.8;91.3;372.1
+147;user147;9688;standard;Krizsán György;Man;masters;170.7;133.7;111.2;415.6
+148;user148;5378;standard;Schmidt Eszter;Woman;hobby;124.5;;71.6;196.1
+149;user149;6201;standard;Purgel Tamás István;Man;hobby;142.9;;;142.9
+150;user150;8934;standard;;;;;;0;0
+151;user151;1632;standard;Sisák László;Man;hobby;165.7;;;165.7
+152;user152;9630;standard;Novák Benedek;Man;nyilt;288.3;;139;427.3
+153;user153;7100;standard;Molnár Zsolt;Man;senior;124.5;;127.7;252.2
+154;user154;2320;standard;Tóbiás András;Man;senior;129.5;125.1;116.9;371.5
+155;user155;3952;standard;Dr. Erdei Orsolya;Woman;senior;112.7;108.8;81.6;303.1
+156;user156;7164;standard;Mayer Gergõ;Man;nyilt;219.5;261.6;0;481.1
+157;user157;4205;standard;Zemplényi Zsófi;Woman;kezdo;102.1;;;102.1
+158;user158;3966;standard;Rehák Gergely;Man;senior;258;197.7;223;678.7
+159;user159;7947;standard;Levente Lakatos;Man;hobby;142.4;;0;142.4
+160;user160;3297;standard;Kovács AnnaSára;Woman;nyilt;233.6;153.4;160.4;547.4
+161;user161;8698;standard;Varszámisz Richárd;Man;nyilt;187.3;126.5;150.7;464.5
+162;user162;7883;standard;Schreiter Katalin;Woman;senior;97.9;121.9;75.5;295.3
+163;user163;6183;standard;Szekeresné Semsey Klára;Woman;senior;69.3;84.7;76.1;230.1
+164;user164;6404;standard;Farkas László;Man;hobby;225.9;;;225.9
+165;user165;1589;standard;Kápolnai Lili;Woman;nyilt;265;191;;456
+166;user166;8694;standard;Lang Tímea;Woman;hobby;98.8;;;98.8
+167;user167;7258;standard;Czégel Dávid;Man;nyilt;466.8;;;466.8
+168;user168;2188;standard;;;;;;0;0
+169;user169;8190;standard;Bogi;Woman;senior;62.7;;0;62.7
+170;user170;1017;standard;Tóth Richárd;Man;hobby;299.2;155.4;99;553.6
+171;user171;1668;standard;Kéri Viktor;Man;hobby;127.2;150.6;;277.8
+172;user172;6060;standard;Hegyi Áron;Man;nyilt;212.4;;229.1;441.5
+173;user173;3895;standard;Rigó Áron;Man;nyilt;219.1;;;219.1
+174;user174;3198;standard;Lányi Kristóf;Man;nyilt;456.6;;;456.6
+175;user175;7006;standard;Radics Attila;Man;nyilt;1391.1;1318.5;0;2709.6
+176;user176;1082;standard;Nagy Brigitta Patrícia;Woman;hobby;128.5;;;128.5
+177;user177;7604;standard;Venglovecz Bence;Man;hobby;185.6;126.3;153.1;465
+178;user178;7503;standard;Nagy Botond Kristóf;Man;hobby;249.1;;;249.1
+179;user179;1538;standard;Láposi Zoltán;Man;hobby;126.1;99;107.8;332.9
+180;user180;9658;standard;Lábiscsák László;Man;senior;282.4;220.5;;502.9
+181;user181;3279;standard;Szekeres Péter;Man;senior;134;98.5;102.8;335.3
+182;user182;1720;standard;Ian Grilc;Man;nyilt;1107.1;;0;1107.1
+183;user183;4544;standard;Kovács Mátyás;Man;senior;111.7;96.3;;208
+184;user184;4792;standard;Juhász Fanni;Woman;U14;284.4;518.7;2334.2;3137.3
+185;user185;6222;standard;Parrag Szilárd;Man;kezdo;79;84.4;72.8;236.2
+186;user186;7347;standard;Molnár Veronika;Woman;hobby;169.3;128;111.4;408.7
+187;user187;6596;standard;Kazinczi Renato;Man;kezdo;83;81.7;0;164.7
+188;user188;1239;standard;Kõrösi Gergõ;Man;nyilt;424;;;424
+189;user189;8232;standard;;;;;;0;0
+190;user190;8765;standard;Szigligeti Attila;Man;hobby;111.2;106.4;0;217.6
+191;user191;4532;standard;BenceB;Man;hobby;148.7;;0;148.7
+192;user192;2449;standard;;;;;;0;0
+193;user193;5638;standard;Tóth Gábor;Man;hobby;91.3;;;91.3
+194;user194;4822;standard;macsaidani;Man;nyilt;193.9;;0;193.9
+195;user195;1957;standard;Dr. Nardai Richárd;Man;senior;130.7;;83.3;214
+196;user196;9222;standard;Virág Attila;Man;U10;1229.2;1298.3;1692.6;4220.1
+197;user197;4785;standard;Bozsér Kata;Woman;hobby;159;121.8;135.2;416
+198;user198;7892;standard;Virág Nimród;Man;U12;623;1555.6;955.6;3134.2
+199;user199;8504;standard;Horváth Ákos;Man;hobby;164;;;164
+200;user200;9464;standard;;;;;;;0
+201;user201;5486;standard;Csabber;Man;hobby;102.7;;;102.7
+202;user202;9904;standard;Bihácsi Bence;Man;hobby;50.9;;;50.9
+203;user203;2912;standard;Baross Bence;Man;hobby;68.1;;0;68.1
+204;user204;4283;standard;Wiesmeyer Eszter;Woman;hobby;106.3;98.7;0;205
+205;user205;7462;standard;Szmodics Levente;Man;hobby;97.3;;0;97.3
+206;user206;7757;standard;;;;;;0;0
+207;user207;5728;standard;Török Mátyás;Man;hobby;186.5;;;186.5
+208;user208;1191;standard;Doma;Man;hobby;97.8;;0;97.8
+209;user209;9954;standard;Karminás Bence Regõ;Man;nyilt;399.7;576.6;723.4;1699.7
+210;user210;8877;standard;Tavarnai Gergely;Man;hobby;103;138.4;148;389.4
+211;user211;6840;standard;Hallósy Levente;Man;hobby;123.6;100.1;;223.7
+212;user212;7138;standard;Bliszkó Péter;Man;senior;117.8;98.5;93.4;309.7
+213;user213;5802;standard;user213;Woman;kezdo;71.2;;0;71.2
+214;user214;8089;standard;;;;;;0;0
+215;user215;6614;standard;Dobos Olivér;Man;hobby;177.1;149.1;197.6;523.8
+216;user216;1734;standard;Katona Kristóf;Man;nyilt;276.3;307.1;;583.4
+217;user217;9048;standard;;;;;;0;0
+218;user218;9259;standard;Balázs Péter;Man;hobby;142.4;129.2;95.5;367.1
+219;user219;5363;standard;Seidl Anna;Woman;hobby;102.6;100.3;0;202.9
+220;user220;5523;standard;Polgár Tamás;Man;kezdo;102.3;89.4;75.3;267
+221;user221;1424;standard;user221;Man;kezdo;92.2;;0;92.2
+222;user222;1525;standard;Kronovitter Lilla;Woman;hobby;113.2;;0;113.2
+223;user223;4845;standard;Kalmár Zsófia;Woman;U12;454.3;1544.4;955.6;2954.3
+224;user224;8525;standard;Zelena Zsombor;Man;nyilt;224.4;240.7;208.8;673.9
+225;user225;1787;standard;Pintér Emese;Woman;hobby;156.1;170.4;93.9;420.4
+226;user226;2797;standard;Czmorek Dávid;Man;kezdo;90.8;94.7;69.2;254.7
+227;user227;9687;standard;Imre Léna;Woman;nyilt;498.2;307;440.4;1245.6
+228;user228;9875;standard;Papp Lajos;Man;masters;219.2;158.8;140.3;518.3
+229;user229;2832;standard;Zima Nándor;Man;senior;112.7;;;112.7
+230;user230;9856;standard;Luca;Woman;kezdo;102.3;;0;102.3
+231;user231;5181;standard;Vincze Dani;Man;kezdo;101.2;90.6;74.7;266.5
+232;user232;1932;standard;Demény Ágnes;Woman;kezdo;104;;;104
+233;user233;5524;standard;Kürti Emese;Woman;hobby;120.2;;;120.2
+234;user234;5028;standard;Farkas Krisztina;Woman;kezdo;85;;0;85
+235;user235;4614;standard;Herr Patrik;Man;hobby;102.3;;0;102.3
+236;user236;8656;standard;;;;;;0;0
+237;user237;8354;standard;H. Réka;Woman;hobby;83;;64;147
+238;user238;4567;standard;Csere Attila;Man;hobby;204;144.7;141.8;490.5
+239;user239;9897;standard;;;;;;0;0
+240;user240;6581;standard;Krisko Andras;Man;hobby;150.8;;135.3;286.1
+241;user241;8222;standard;Gál Soma;Man;kezdo;58.5;84;154.6;297.1
+242;user242;6298;standard;Dr. Asbóth-Hermányi Lõrinc;Man;kezdo;84.4;;91.3;175.7
+243;user243;5766;standard;Hajdara Tamás;Man;hobby;74.3;;;74.3
+244;user244;6810;standard;Marosi Gergely;Man;hobby;100.8;;0;100.8
+245;user245;4172;standard;Istvan Miksi;Man;kezdo;50.5;;0;50.5
+246;user246;7279;standard;Farkas Katalin;Woman;senior;99.7;92.7;76.5;268.9
+247;user247;5364;standard;Keménylegény;Man;nyilt;211.5;;;211.5
+248;user248;3940;standard;Bátkai Zsolt;Man;hobby;176.6;117.8;;294.4
+249;user249;1713;standard;vekki;Man;hobby;136.4;;0;136.4
+250;user250;2274;standard;Katona Hanna;Woman;kezdo;113.2;97.1;99.6;309.9
+251;user251;6702;standard;;;;;;0;0
+252;user252;1474;standard;Váczi Gábor;Man;hobby;129.5;122;97.8;349.3
+253;user253;3255;standard;Sólyom Zoltán;Man;senior;116.6;;;116.6
+254;user254;4921;standard;Katona Rebeka;Woman;kezdo;111;110.8;99.2;321
+255;user255;8281;standard;Kolozsváry Júlia;Woman;hobby;83.6;95.1;80.2;258.9
+256;user256;2114;standard;Varga Bálint;Man;hobby;106.7;102.6;;209.3
+257;user257;5465;standard;Szikszai Petra;Woman;hobby;137.3;105.2;0;242.5
+258;user258;1396;standard;Szilárd Péter;Man;hobby;177.4;;100.6;278
+259;user259;1655;standard;Ézsöl András;Man;hobby;128.1;;;128.1
+260;user260;3048;standard;Andráskó Dániel;Man;kezdo;102.3;84.4;;186.7
+261;user261;8628;standard;Czifra Márton;Man;U16;;2270;626.2;2896.2
+262;user262;9297;standard;Merényi Marcell;Man;U14;;1030.3;;1030.3
+263;user263;7194;standard;;;;;;0;0
+264;user264;3942;standard;;;;;;0;0
+265;user265;1171;standard;Szilágyi Zalán;Man;U14;;485;714.8;1199.8
+266;user266;3747;standard;Molnár Flóra Anna;Woman;hobby;;91.1;;91.1
+267;user267;6427;standard;Davi Gábor;Man;U14;;931.6;;931.6
+268;user268;9103;standard;Koczó Attila;Man;hobby;;143.5;151.8;295.3
+269;user269;5543;standard;;;;;;0;0
+270;user270;1929;standard;Kondás Dániel;Man;hobby;;94.1;;94.1
+271;user271;4890;standard;Lábiscsák Csanád;Man;U14;;1117.2;985.9;2103.1
+272;user272;5855;standard;Bíró Ábrahám Máté;Man;hobby;;124.3;;124.3
+273;user273;8059;standard;Gazsó Réka;Woman;U10;;1295.1;;1295.1
+274;user274;2726;standard;Horák Zsófi;Woman;nyilt;;96.7;;96.7
+275;user275;5132;standard;Páczelt Lenke;Woman;U10;;1284;;1284
+276;user276;1488;standard;Farkas Bence;Man;nyilt;;116.9;305.9;422.8
+277;user277;7224;standard;;;;;;;0
+278;user278;9261;standard;Major Mátyás József;Man;hobby;;91.1;;91.1
+279;user279;2164;standard;Nagy Emese Nelli;Woman;U12;;1544.4;;1544.4
+280;user280;4617;standard;Kiss Fruzsina Zoé;Woman;hobby;;109.1;83;192.1
+281;user281;5299;standard;;;;;;0;0
+282;user282;7787;standard;Tóth Levente;Man;hobby;;118.4;149.4;267.8
+283;user283;3409;standard;;;;;;;0
+284;user284;1683;standard;Oláh-Székely Jónás;Man;hobby;;98.7;;98.7
+285;user285;5603;standard;;;;;;;0
+286;user286;8197;standard;Kelemen Natália;Woman;hobby;;91.1;;91.1
+287;user287;3534;standard;;;;;;;0
+288;user288;2119;standard;Karminás Zolta;Man;nyilt;;;123.2;123.2
+289;user289;2546;standard;Varga Dávid;Man;hobby;;96.6;407.4;504
+290;user290;7032;standard;Nádasdi Zoltán Dávid;Man;nyilt;;125.9;45.9;171.8
+291;user291;8021;standard;Varga Bence János;Man;kezdo;;54.4;;54.4
+292;user292;5674;standard;Szabó Roxána;Woman;hobby;;88.8;;88.8
+293;user293;1050;standard;Fehér Ádám;Man;kezdo;;85;77.3;162.3
+294;user294;7460;standard;;;;;;;0
+295;user295;1955;standard;Zilin Liu;Woman;hobby;;133.2;;133.2
+296;user296;1121;standard;;;;;;;0
+297;user297;8385;standard;Seidl Robert;Man;senior;;94.7;;94.7
+298;user298;1439;standard;Varga Tücsi;Woman;nyilt;;60.8;;60.8
+299;user299;9181;standard;Tarnói Csenge;Woman;hobby;;162.6;;162.6
+300;user300;2983;standard;Görbe Dániel;Man;hobby;;123.8;;123.8
+301;user301;9438;standard;Tóth Lili;Woman;kezdo;;44.1;71.2;115.3
+302;user302;1586;standard;Péter Bálint;Man;hobby;;89.3;;89.3
+303;user303;5215;standard;Vadász Kristóf;Man;hobby;;115.2;85;200.2
+304;user304;1220;standard;Gács Katinka;Woman;hobby;;85.6;;85.6
+305;user305;3448;standard;Vadai András;Man;hobby;145.8;105.4;93.5;344.7
+306;user306;8671;standard;Laki Péter;Man;hobby;;120.7;134.9;255.6
+307;user307;1123;standard;;;;;;;0
+308;user308;9109;standard;Rachler Áron;Man;hobby;;140.8;;140.8
+309;user309;4258;standard;Levatic Jurica;Man;hobby;;263.7;;263.7
+310;user310;9596;standard;;;;;;;0
+311;user311;3610;standard;Nagy Ambrus;Man;nyilt;;921.5;759.5;1681
+312;user312;6408;standard;Iga Gergely;Man;hobby;;102.7;93.8;196.5
+313;user313;3337;standard;Viacheslav Petrov;Man;nyilt;;262.5;0;262.5
+314;user314;3206;standard;Török László;Man;hobby;;158.9;114.2;273.1
+315;user315;1100;standard;Minin Peter;Man;hobby;;77.7;75.7;153.4
+316;user316;9742;standard;;;;;;;0
+317;user317;6939;standard;Gõsi Dominik;Man;hobby;;153.9;124.9;278.8
+318;user318;1728;standard;Horváth Zsófia;Woman;kezdo;;92.5;;92.5
+319;user319;2773;standard;Szarka Cecilia;Woman;senior;;90.3;0;90.3
+320;user320;3920;standard;;;;;;0;0
+321;user321;3096;standard;;;;;;0;0
+322;user322;4955;standard;Karminás Zsombor;Man;nyilt;;453.3;366.5;819.8
+323;user323;1509;standard;Tsepennikova Anna;Woman;kezdo;;77.1;;77.1
+324;user324;6775;standard;;;;;;;0
+325;user325;5488;standard;;;;;;;0
+326;user326;7501;standard;Erdei Rebeka;Woman;kezdo;;76.3;;76.3
+327;user327;2064;standard;Ruzics Bence;Man;hobby;;246.6;198.3;444.9
+328;user328;2646;standard;Szûcs Kitti;Woman;kezdo;;186;67.4;253.4
+329;user329;5935;standard;;;;;;;0
+330;user330;7612;standard;Helmle Boáz Péter;Man;kezdo;;99.2;;99.2
+331;user331;9300;standard;;;;;;0;0
+332;user332;6973;standard;;;;;;0;0
+333;user333;9067;standard;Garamszegi Anna Bella;Woman;kezdo;;87.1;0;87.1
+334;user334;6812;standard;;;;;;;0
+335;user335;5010;standard;;;;;;;0
+336;user336;8603;standard;;;;;;;0
+337;user337;7011;standard;;;;;;;0
+338;user338;9841;standard;Kovács Attila;Man;kezdo;;88.8;;88.8
+339;user339;2286;standard;Sajgó Mátyás;Man;hobby;;;96.1;96.1
+340;user340;6928;standard;Tapodi Dániel;Man;hobby;;89.3;;89.3
+341;user341;1962;standard;Dudás István;Man;hobby;;175.8;;175.8
+342;user342;1719;standard;Boros Gyevi Szabolcs;Man;nyilt;;213.1;222.3;435.4
+343;user343;4739;standard;Sós Eszter Viktória;Woman;kezdo;;78.3;153.9;232.2
+344;user344;4841;standard;Dunay Luca;Woman;kezdo;;91.1;74.7;165.8
+345;user345;6105;standard;;;;;;0;0
+346;user346;1699;standard;Szvatkó Árpád;Man;kezdo;;91.1;77.4;168.5
+347;user347;6863;standard;Szegedi Zsombor;Man;hobby;;185.9;0;185.9
+348;user348;5152;standard;Szabó Anita;Woman;kezdo;;90.5;72.7;163.2
+349;user349;5305;standard;Tóth Kristóf;Man;nyilt;;697.6;393.7;1091.3
+350;user350;4195;standard;;;;;;;0
+351;user351;5127;standard;;;;;;;0
+352;user352;5481;standard;;;;;;;0
+353;user353;8272;standard;Horváth Ágoston;Man;nyilt;;333.7;307.8;641.5
+354;user354;5471;standard;Csáki Bence;Man;kezdo;;112;86.9;198.9
+355;user355;1781;standard;Egressy András;Man;nyilt;;391.8;;391.8
+356;user356;3396;standard;;;;;;0;0
+357;user357;3810;standard;Németh Norbert;Man;kezdo;;96.5;79.2;175.7
+358;user358;3326;standard;;;;;;;0
+359;user359;4170;standard;Mészáros Árpád József;Man;hobby;;103.9;81;184.9
+360;user360;1236;standard;Molnár Gábor;Man;hobby;;99.3;82.7;182
+361;user361;9962;standard;Robotka Adrián;Man;kezdo;;94.5;;94.5
+362;user362;4376;standard;Karner Bogi;Woman;kezdo;;61;;61
+363;user363;7770;standard;;;;;;;0
+364;user364;6833;standard;Sándor Gergely;Man;hobby;;121.9;;121.9
+365;user365;8541;standard;;;;;;;0
+366;user366;2824;standard;;;;;;;0
+367;user367;5129;standard;;;;;;;0
+368;user368;5848;standard;Fõzõ András;Man;hobby;;;184;184
+369;user369;3773;standard;;;;;;;0
+370;user370;2747;standard;Szili-Kis Tamás;Man;kezdo;;91.1;;91.1
+371;user371;9074;standard;Schmidt Péter;Man;hobby;;98;93.8;191.8
+372;user372;1029;standard;Varga Balázs;Man;hobby;;83;;83
+373;user373;5469;standard;;;;;;0;0
+374;user374;4320;standard;Szabolcs Botond;Man;hobby;;87.6;0;87.6
+375;user375;4464;standard;Vincze Csaba;Man;hobby;;99.3;81.6;180.9
+376;user376;6557;standard;Lõrincz Tibor;Man;hobby;;95.5;;95.5
+377;user377;2544;standard;Molnár Boglárka;Woman;nyilt;;195;336.6;531.6
+378;user378;5064;standard;;;;;;;0
+379;user379;9933;standard;Daróczi Balázs;Man;hobby;;111.5;;111.5
+380;user380;4872;standard;Pétervári Olivér;Man;hobby;;96.5;;96.5
+381;user381;3954;standard;Sági Ádám Adrián;Man;hobby;;124;136.5;260.5
+382;user382;4975;standard;Pal Peter Akos;Man;hobby;;98.5;77.2;175.7
+383;user383;4875;standard;Csongvay Péter;Man;hobby;;147.7;;147.7
+384;user384;1289;standard;Benke Bálint;Man;nyilt;;370.2;230;600.2
+385;user385;9365;standard;Balázs Vince;Man;nyilt;;227.2;;227.2
+386;user386;6208;standard;Torma Bence;Man;nyilt;;272.2;;272.2
+387;user387;2930;standard;Dóczi Ágnes;Woman;kezdo;;34.8;;34.8
+388;user388;8814;standard;;;;;;;0
+389;user389;5509;standard;;;;;;;0
+390;user390;4344;standard;;;;;;;0
+391;user391;3184;standard;Pusztai Alba;Woman;kezdo;;27.6;;27.6
+392;user392;3090;standard;;;;;;;0
+393;user393;9049;standard;;;;;;;0
+394;user394;7546;standard;;;;;;;0
+395;user395;9210;standard;;;;;;;0
+396;user396;5707;standard;;;;;;;0
+397;user397;2856;standard;Travnik Gergely;Man;hobby;;109.5;95.6;205.1
+398;user398;4343;standard;Koncz Balázs;Man;hobby;;106.8;107.1;213.9
+399;user399;7664;standard;;;;;;0;0
+400;user400;8414;standard;Benadad Orozco Lopez;Man;hobby;;86.8;0;86.8
+401;user401;7381;standard;Boda Árpád;Man;kezdo;;90;;90
+402;user402;2390;standard;Sári Zsombor;Man;hobby;;103;94.4;197.4
+403;user403;7674;standard;Váraljai Márton;Man;U14;;1239.4;;1239.4
+404;user404;5362;standard;Bubb Ferenc;Man;masters;;159;122.8;281.8
+405;user405;9585;standard;Inky Pinky;Woman;nyilt;;169.6;0;169.6
+406;user406;8666;standard;Szokolai Gergely;Man;hobby;;96.6;0;96.6
+407;user407;7177;standard;Jároli Nóra;Woman;nyilt;;350.4;300.5;650.9
+408;user408;6433;standard;;;;;;;0
+409;user409;6284;standard;Tusnády Nimród;Man;nyilt;;1456;;1456
+410;user410;6356;standard;Szabó Kinga;Woman;senior;;94;;94
+411;user411;3129;standard;Tóth Vince (felnõtt er.);Man;nyilt;;160;;160
+412;user412;3586;standard;Vörös Laura;Woman;hobby;;93.6;;93.6
+413;user413;4107;standard;Gyergyák Balázs;;;;;;0
+414;user414;7599;standard;Gyõri Dániel;Man;kezdo;;;76.5;76.5
+415;user415;8750;standard;Kocsis-Kövér Orsolya;Woman;senior;;31.1;;31.1
+416;user416;8114;standard;Pajor Olivér Joakim;Man;kezdo;;;79.2;79.2
+417;user417;3079;standard;Selmeczy Martin;Man;U10;;1061.8;;1061.8
+418;user418;7654;standard;Niederkirchner Alexandra;Woman;hobby;;;96.1;96.1
+419;user419;1836;standard;Farkas Lili;Woman;U10;;890.9;;890.9
+420;user420;1337;standard;Selmeczy Martin;Man;hobby;;;135.8;135.8
+421;user421;6369;standard;Molnár Alíz;Woman;U16;;2600;;2600
+422;user422;1721;standard;Zana Roland;Man;kezdo;;;71.4;71.4
+423;user423;9179;standard;Szivák Gábor;Man;kezdo;;;79.3;79.3
+424;user424;1059;standard;Dulganov Natasa;Woman;kezdo;;;76.5;76.5
+425;user425;3748;standard;Kujbus Marcell;Man;hobby;;;83.6;83.6
+426;user426;7972;standard;Erdõs Orsolya;Woman;senior;;;78;78
+427;user427;3217;standard;;;;;;0;0
+428;user428;4630;standard;Fehér István;Man;kezdo;;;63.9;63.9
+429;user429;6904;standard;;;;;;;0
+430;user430;2391;standard;Kulcsár Dorottya;Woman;hobby;;;86.2;86.2
+431;user431;1415;standard;Spergel Dániel;Man;hobby;;;97.7;97.7
+432;user432;8912;standard;Kurucz Levente;Man;hobby;;;132.8;132.8
+433;user433;8096;standard;;;;;;0;0
+434;user434;4852;standard;Nosal András;Man;senior;;;82.1;82.1
+435;user435;7608;standard;Catanzaro Tamas;Man;kezdo;;;75.5;75.5
+436;user436;7215;standard;;;;;;0;0
+437;user437;7334;standard;;;;;;0;0
+438;user438;9019;standard;Sallay Tamás;Man;kezdo;;;79.7;79.7
+439;user439;6073;standard;Blazsek Attila;Man;kezdo;;;66.6;66.6
+440;user440;3001;standard;Rikli Ákos;Man;hobby;;;147.4;147.4
+441;user441;6403;standard;Korondi-Katona Tímea;Woman;hobby;;;84.7;84.7
+442;user442;2429;standard;Korondi Áron;Man;nyilt;;;329.8;329.8
+443;user443;5763;standard;Berczi Miklós;Man;hobby;;;138.8;138.8
+444;user444;3097;standard;Daruka Lili;Woman;kezdo;;;79.2;79.2
+445;user445;8513;standard;Petra Gerencsér;Woman;hobby;;;99.5;99.5
+446;user446;8897;standard;Montvai Dániel;Man;nyilt;;;244.3;244.3
+447;user447;6514;standard;Varga Zsófia;Woman;kezdo;;;67.5;67.5
+448;user448;6511;standard;;;;;;0;0
+449;user449;7700;standard;;;;;;0;0
+450;user450;9052;standard;Szappanos Ágnes;Woman;masters;;;80.2;80.2
+451;user451;1360;standard;Papp Gergõ;Man;kezdo;;;78.8;78.8
+452;user452;6343;standard;Hidas Réka;Woman;kezdo;;;76.2;76.2
+453;user453;3137;standard;Sárvári Dávid;Man;hobby;;;175.6;175.6
+454;user454;3228;standard;Solymosi Ernõ;Man;kezdo;;;68;68
+455;user455;6289;standard;;;;;;0;0
+456;user456;2043;standard;Sándor András;Man;hobby;;;81;81
+457;user457;8749;standard;;;;;;0;0
+458;user458;5767;standard;Sebestyén Steiner;Man;nyilt;;;430.2;430.2
+459;user459;1390;standard;Kocsis Richárd;Man;senior;;223.6;212.9;436.5
+460;user460;4653;standard;Török István Csongor;Man;kezdo;;;75.5;75.5
+461;user461;5735;standard;Biri Ádám;Man;kezdo;;;70.1;70.1
+462;user462;6029;standard;Luca Szabo;Woman;kezdo;;;68.2;68.2
+463;user463;5222;standard;Asztalos Ádám;Man;hobby;;;191.5;191.5
+464;user464;9865;standard;Szilágyi István;Man;kezdo;;;72;72
+465;user465;2189;standard;Nagy Marcell Szilveszter;Man;kezdo;;;75.5;75.5
+466;user466;7882;standard;Siménfalvy Csongor;Man;kezdo;;;54.5;54.5
+467;user467;6659;standard;Sábián Róbert;Man;kezdo;;;73.9;73.9
+468;user468;8035;standard;Molnár Gergõ;Man;hobby;;;104.9;104.9
+469;user469;5184;standard;Latorre Nataniel Nándor;Man;hobby;;;92.4;92.4
+470;user470;9619;standard;Szûcs Edit;Woman;kezdo;;;76.5;76.5
+471;user471;4242;standard;Balla Réka;Woman;kezdo;;;55.8;55.8
+472;user472;2948;standard;Borbély Gábor;Man;nyilt;;;243.1;243.1
+473;user473;9392;standard;Major Dávid;Man;hobby;;;75.4;75.4
+474;user474;4116;standard;Kondacs Laszlo;Man;hobby;;;79.8;79.8
+475;user475;2378;standard;Biri Anna Noa;Woman;U10;;;1200;1200
+476;user476;5887;standard;;;;;;;0
+477;user477;8576;standard;;;;;;0;0
+478;user478;3883;standard;Gyöngyösi András;Man;kezdo;;;72;72
+479;user479;6039;standard;;;;;;0;0
+480;user480;2593;standard;Bereznay Bence;Man;kezdo;;;77.8;77.8
+481;user481;8210;standard;Willmann Máté;Man;kezdo;;;67.7;67.7
+482;user482;5985;standard;Nguyen Quang Hoa;Man;kezdo;;;63.4;63.4
+483;user483;2315;standard;Iris King;Woman;hobby;;;82.1;82.1
+484;user484;9320;standard;Kis Krisztián;Man;kezdo;;;78.3;78.3
+485;user485;2531;standard;Kolozsvári Dávid;Man;hobby;;;78.1;78.1
+486;user486;3209;standard;Kolozsvári Csongor;Man;hobby;;;75.1;75.1
+487;user487;8402;standard;Polgárdy Simon;Man;hobby;;;90;90
+488;user488;7673;standard;;;;;;0;0
+489;user489;9381;standard;;;;;;;0
+490;user490;9129;standard;;;;;;0;0
+491;user491;4838;standard;Fehér Gábor;Man;nyilt;;;440.8;440.8
+492;user492;5697;standard;;;;;;0;0
+493;user493;4767;standard;Németh Péter;Man;hobby;;;119;119
+494;user494;3080;standard;Dancz-Polczer Laura Csepke;Woman;U16;;;643.8;643.8
+495;user495;4972;standard;Vass Gergõ;Man;hobby;;;70.6;70.6
+496;user496;9861;standard;Kicsis-Kis Hanna;Woman;U14;;;321.1;321.1
+497;user497;2538;standard;Csurdi Csenge;Woman;hobby;;;79.7;79.7
+498;user498;7202;standard;Palotás Bálint Ádám;Man;kezdo;;;75.5;75.5
+499;user499;7268;standard;Adam Hamilton;Man;hobby;;;76.5;76.5
+500;user500;5779;standard;Süle Szilvia;Woman;hobby;;;103;103
+501;user501;4631;standard;Szemán Krisztián;Man;hobby;;;87.7;87.7
+502;user502;5017;standard;Salma Taoufiq;Woman;hobby;;;76.1;76.1
+503;user503;1181;standard;Tarnavölgyi Csilla;Woman;hobby;;;76.6;76.6
+504;user504;2270;standard;;;;;;0;0
+505;user505;6833;standard;;;;;;0;0
+506;user506;6548;standard;Kulin Bence Noel;Man;U16;;;228.6;228.6
+507;user507;8682;standard;Erdész Zsolt;Man;hobby;;;79;79
+508;user508;5318;standard;;;;;;0;0
+509;user509;6523;standard;Hõs Dávid;Man;hobby;;;114.4;114.4
+510;user510;8863;standard;Fekete Boglárka;Woman;kezdo;;;68.4;68.4
+511;user511;7399;standard;Rónai Zalán;Man;U16;;;2555.5;2555.5
+512;user512;7579;standard;Szirbik Bence;Man;hobby;;;156.8;156.8
+513;user513;9497;standard;Gögge Ádám;Man;hobby;;;100.9;100.9
+514;user514;5533;standard;Gonda Zoltán Sebestyén;Man;hobby;;;218.4;218.4
+515;user515;8695;standard;Németh Norbert;Man;hobby;;;155.3;155.3
+516;user516;6917;standard;;;;;;0;0
+517;user517;9512;standard;Tatár Jamina;Woman;kezdo;;;49;49
+518;user518;1566;standard;;;;;;0;0
+519;user519;4518;standard;Hamar György József;Man;hobby;;;149.7;149.7
+520;user520;9468;standard;Kalinowski Anna;Woman;U12;;;682.6;682.6
+521;user521;4870;standard;Torh Viki;Woman;nyilt;;;364;364
+522;user522;7627;standard;Rimár Zorka;Woman;hobby;;;83.6;83.6
+523;user523;9351;standard;;;;;;;0
+524;user524;8722;standard;;;;;;;0
+525;user525;2965;standard;;;;;;;0
+526;user526;6594;standard;Kókai Zsófia Dorka;Woman;U14;;;454.4;454.4
+527;user527;7700;standard;Kókai Emese Nóra;Woman;U12;;;682.6;682.6
+528;user528;3887;standard;Yaroslav;Man;nyilt;;;203.9;203.9
+529;user529;4064;standard;Molnár Gábor;Man;kezdo;;;73.3;73.3
+530;user530;3396;standard;Fekete Dávid;Man;nyilt;;;110.1;110.1
+531;user531;4855;standard;Kustár Dániel;Man;hobby;;;135.8;135.8
+532;user532;9422;standard;Jenei Panni;Woman;U12;;;620.8;620.8
+533;user533;1819;standard;;;;;;;0
+534;user534;4807;standard;Komjáti Zoltán;Man;nyilt;;;676.8;676.8
+535;user535;1784;standard;;;;;;;0
+536;user536;5603;standard;;;;;;;0
+537;user537;8612;standard;;;;;;;0
+538;user538;6802;standard;;;;;;;0
+539;user539;1810;standard;;;;;;;0
+540;user540;2682;standard;;;;;;;0
+541;user541;3520;standard;;;;;;;0
+542;user542;6033;standard;;;;;;;0
+543;user543;5408;standard;;;;;;;0
+544;user544;4125;standard;;;;;;;0
+545;user545;4860;standard;;;;;;;0
+546;user546;5764;standard;;;;;;;0
+547;user547;4881;standard;;;;;;;0
+548;user548;4752;standard;;;;;;;0
+549;user549;4178;standard;;;;;;;0
+550;user550;6258;standard;;;;;;;0
+551;user551;5100;standard;;;;;;;0
+552;user552;4676;standard;;;;;;;0
+553;user553;5648;standard;;;;;;;0
+554;user554;3431;standard;;;;;;;0
+555;user555;1750;standard;;;;;;;0
+556;user556;3427;standard;;;;;;;0
+557;user557;7026;standard;;;;;;;0
+558;user558;8016;standard;;;;;;;0
+559;user559;3128;standard;;;;;;;0
+560;user560;7123;standard;;;;;;;0
+561;user561;8665;standard;;;;;;;0
+562;user562;4382;standard;;;;;;;0
+563;user563;8540;standard;;;;;;;0
+564;user564;4508;standard;;;;;;;0
+565;user565;8557;standard;;;;;;;0
+566;user566;7547;standard;;;;;;;0
+567;user567;7155;standard;;;;;;;0
+568;user568;9020;standard;;;;;;;0
+569;user569;1262;standard;;;;;;;0
+570;user570;5854;standard;;;;;;;0
+571;user571;3304;standard;;;;;;;0
+572;user572;6904;standard;;;;;;;0
+573;user573;8356;standard;;;;;;;0
+574;user574;8985;standard;;;;;;;0
+575;user575;1598;standard;;;;;;;0
+576;user576;6915;standard;;;;;;;0
+577;user577;5782;standard;;;;;;;0
+578;user578;5746;standard;;;;;;;0
+579;user579;3439;standard;;;;;;;0
+580;user580;6062;standard;;;;;;;0
+581;user581;3165;standard;;;;;;;0
+582;user582;4010;standard;;;;;;;0
+583;user583;8805;standard;;;;;;;0
+584;user584;9546;standard;;;;;;;0
+585;user585;1403;standard;;;;;;;0
+586;user586;6533;standard;;;;;;;0
+587;user587;6419;standard;;;;;;;0
+588;user588;6319;standard;;;;;;;0
+589;user589;6791;standard;;;;;;;0
+590;user590;6733;standard;;;;;;;0
+591;user591;5619;standard;;;;;;;0
+592;user592;3126;standard;;;;;;;0
+593;user593;5803;standard;;;;;;;0
+594;user594;2841;standard;;;;;;;0
+595;user595;4565;standard;;;;;;;0
+596;user596;7013;standard;;;;;;;0
+597;user597;2504;standard;;;;;;;0
+598;user598;6514;standard;;;;;;;0
+599;user599;6132;standard;;;;;;;0
+600;user600;4470;standard;;;;;;;0

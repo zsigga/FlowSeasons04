@@ -1,0 +1,601 @@
+user;season1;season2;season3;name;sex;cat
+user1;1190;1116.1;2301.1;Horváth- Kenéz Zselyke;Woman;U14
+user2;;;432.2;Molnár Zita;Woman;U14
+user3;171;;0;Kovacs Eliza Janka;Woman;U14
+user4;;;95.5;Kocsis-Kis Réka;Woman;U14
+user5;895.8;;1299.1;Fodor Maja Zoé;Woman;U10
+user6;;;0;;;
+user7;2979.6;;;Emilia Migacz;Woman;U14
+user8;1404.9;;2605.5;Tóth Vince;Man;U16
+user9;935.6;1588.9;2122.2;Pszota Örs;Man;U12
+user10;1281.9;;;Ésik Ádám;Man;U16
+user11;;;0;;;
+user12;1593.7;4140;3963.8;Filinger Nóri;Woman;U16
+user13;1233.4;1284;;Budai Liza Barbara;Woman;U10
+user14;1196.7;1295.1;1655.4;Nosal Zétény;Man;U10
+user15;703;;938.9;Alföldi András;Man;U12
+user16;;;;;;
+user17;617.5;;;Polgár Nóra;Woman;U12
+user18;;;0;;;
+user19;985.8;3790;1305.5;Csaba Koppány Krisztián;Man;U16
+user20;;;0;;;
+user21;531.2;;;Dudás Máté;Man;U12
+user22;;;0;;;
+user23;1380.1;1377.2;2292.8;Gódor Enikõ;Woman;U14
+user24;;;0;;;
+user25;1820.3;4674.7;;Tóth Viki;Woman;U14
+user26;;;0;;;
+user27;314.1;;0;Storch Paul;Man;nyilt
+user28;103.5;;83.6;Gajárszki Áron;Man;senior
+user29;203.5;;;Szigethy Róbert;Man;hobby
+user30;582.1;1143.5;1010.9;Selmeczy Péter;Man;U14
+user31;343.9;;460.9;Kerry Ella;Woman;nyilt
+user32;;;0;;;
+user33;958.3;;;Waltner Emma;Woman;U10
+user34;303.7;;;Szalai Sándor;Man;nyilt
+user35;127.9;130.9;232.5;Szamosi András;Man;nyilt
+user36;143.2;;;Csáky Liza Maja;Woman;hobby
+user37;;;0;;;
+user38;;;0;;;
+user39;346.5;;;Sarkadi Ákos;Man;nyilt
+user40;206.3;;;Turai Péter;Man;nyilt
+user41;1453.2;;;Nia Jamnikar;Woman;U12
+user42;226.1;323.8;263.9;Gódor Miklós;Man;senior
+user43;132.7;;0;Kristian Juri?;Man;hobby
+user44;106.2;96.3;;Csigi Móni;Woman;senior
+user45;53.1;;0;user45;Man;kezdo
+user46;118.9;96.3;80.2;Kukoda Károly;Man;senior
+user47;1724.4;1421.5;1458.1;Bakurecz Ádám;Man;nyilt
+user48;67.9;;0;user48;Woman;kezdo
+user49;1191.2;;;Szabó Zsombor;Man;U12
+user50;106;;;Ottinger Nóra;Woman;hobby
+user51;424.8;1322.2;817.3;Sebõk Aliz;Woman;U12
+user52;769.5;;;Czimbula Beni;Man;U12
+user53;101.8;99.3;;Váradi Péter Tamás;Man;hobby
+user54;;;0;;;
+user55;;;0;;;
+user56;1042;;1642.9;Fücsek Mirkó;Man;U10
+user57;258.4;;165.5;Herbay Máté;Man;hobby
+user58;377.7;339.7;287.5;Szász Krisztián;Man;nyilt
+user59;;;0;;;
+user60;1198.8;1284;1384.5;Juhász Ilona;Woman;U10
+user61;;;0;;;
+user62;;;0;;;
+user63;262.8;223.3;;Csohány Csaba;Man;nyilt
+user64;137;;0;Silva Vivien;Woman;hobby
+user65;;;0;;;
+user66;;;0;;;
+user67;143.1;;;Farkas Ábel;Man;hobby
+user68;279.7;536.2;0;Fiath Armin;Man;nyilt
+user69;258.1;;;Gál Zoltán;Man;nyilt
+user70;209.1;;;Pagonyi Máté;Man;nyilt
+user71;;;0;;;
+user72;108.1;;;Kovács Bertalan;Man;hobby
+user73;102.3;85.3;0;Fakan Lilien;Woman;kezdo
+user74;;;0;;;
+user75;91.7;;;Hegyi Natália;Woman;kezdo
+user76;;;;;;
+user77;142.4;121.1;120.4;Gallai Beatrix;Woman;senior
+user78;121.2;;0;Trenka Jusztin;Man;hobby
+user79;791.3;1555.6;1111.1;Szekeres Hanna;Woman;U12
+user80;793.4;;;Hámori Peti;Man;nyilt
+user81;;;0;;;
+user82;281.7;;;Lõvey Tamás;Man;nyilt
+user83;1957.4;1343.5;;Prinz Áron Dániel;Man;U14
+user84;87.4;;;Krämer Glória;Woman;kezdo
+user85;645.8;1322.2;927.8;Nosal Benedek;Man;U12
+user86;102.3;91.7;79.2;Csorba Gergely;Man;senior
+user87;1196.7;1274;1384.5;Pszota Kolos;Man;U10
+user88;117.5;;;Mecseki András;Man;hobby
+user89;;;0;;;
+user90;;;0;;;
+user91;1229.2;1196.7;1417.6;Kalmár Csenge;Woman;U10
+user92;;;0;;;
+user93;739.1;2620;;Hlavaty Sára Klára;Woman;U14
+user94;;;0;;;
+user95;464.1;1555.6;935.4;Áll Zalán;Man;U12
+user96;;;0;;;
+user97;1057.5;1196.7;;Kovacs Vivien Luca;Woman;U10
+user98;736.1;;;Orlai Dana;Woman;U14
+user99;;1327.8;829.9;Bliszkó Péter Albert;Man;U12
+user100;1169.6;780.5;;Sz. V. Lilla;Woman;U14
+user101;;;0;;;
+user102;580.7;;;Medgyesi Ádám;Man;U12
+user103;218.6;;;Erdélyi Szofi;Woman;U12
+user104;1392.2;;;Kováts Bálint;Man;U12
+user105;568.8;;228.9;Nardai Bálint;Man;nyilt
+user106;;;0;;;
+user107;275;282.9;389.3;Krizsán Veronika;Woman;nyilt
+user108;114;91.7;;Bótyik Barabás;Man;hobby
+user109;164.8;137.1;251.7;Pintér Tomi;Man;nyilt
+user110;81.7;;0;Hieu Vo;Man;kezdo
+user111;76.3;;;Gréta;Woman;senior
+user112;554.5;546.6;430.2;Riggio Michele;Man;nyilt
+user113;91.7;90.4;;Szternák Nóra;Woman;senior
+user114;121.5;127.9;134.6;Csorba Gergõ;Man;hobby
+user115;85.3;;;Debreceni Bálint;Man;hobby
+user116;;;0;;;
+user117;212.6;187.3;;Krizsán Eszter;Woman;nyilt
+user118;99.9;108.2;77;Horváth Hunor;Man;hobby
+user119;;;0;;;
+user120;;;0;;;
+user121;;;0;;;
+user122;150.8;;;Szalmás Márton Tamás;Man;hobby
+user123;87.2;;67.1;Tóth Péter;Man;kezdo
+user124;301.2;;335.3;Scharnitzky Adam;Man;nyilt
+user125;;;0;;;
+user126;;;0;;;
+user127;176.2;;0;Dr. Fekete Anna;Woman;nyilt
+user128;;;0;;;
+user129;114;85.8;;Tóth Norbert;Man;senior
+user130;180.1;;;Tarnóczi Gellért;Man;hobby
+user131;103.8;;0;Szûcs Laura;Woman;kezdo
+user132;102.5;;0;user132;Woman;hobby
+user133;;;0;;;
+user134;;;0;;;
+user135;92.4;;0;Sebu;Man;kezdo
+user136;229.3;;0;user136;Man;hobby
+user137;37.4;;0;Catus;Woman;kezdo
+user138;186.4;114;157.7;Sebõk Rózsa;Woman;nyilt
+user139;120.3;;;Al-Nuwaihi Dániel;Man;hobby
+user140;84.5;;0;Lay Viki;Woman;hobby
+user141;104.9;;0;user141;Man;hobby
+user142;288.7;;115;Novák Tünde Anna;Woman;nyilt
+user143;340.8;307;310.6;Kucsera Lenke;Woman;nyilt
+user144;102.3;;0;Pallos Gabrriella;Woman;senior
+user145;122;99.3;103.6;Barnabás Ürmössy;Man;hobby
+user146;151;129.8;91.3;Molnár Kristóf;Man;hobby
+user147;170.7;133.7;111.2;Krizsán György;Man;masters
+user148;124.5;;71.6;Schmidt Eszter;Woman;hobby
+user149;142.9;;;Purgel Tamás István;Man;hobby
+user150;;;0;;;
+user151;165.7;;;Sisák László;Man;hobby
+user152;288.3;;139;Novák Benedek;Man;nyilt
+user153;124.5;;127.7;Molnár Zsolt;Man;senior
+user154;129.5;125.1;116.9;Tóbiás András;Man;senior
+user155;112.7;108.8;81.6;Dr. Erdei Orsolya;Woman;senior
+user156;219.5;261.6;0;Mayer Gergõ;Man;nyilt
+user157;102.1;;;Zemplényi Zsófi;Woman;kezdo
+user158;258;197.7;223;Rehák Gergely;Man;senior
+user159;142.4;;0;Levente Lakatos;Man;hobby
+user160;233.6;153.4;160.4;Kovács AnnaSára;Woman;nyilt
+user161;187.3;126.5;150.7;Varszámisz Richárd;Man;nyilt
+user162;97.9;121.9;75.5;Schreiter Katalin;Woman;senior
+user163;69.3;84.7;76.1;Szekeresné Semsey Klára;Woman;senior
+user164;225.9;;;Farkas László;Man;hobby
+user165;265;191;;Kápolnai Lili;Woman;nyilt
+user166;98.8;;;Lang Tímea;Woman;hobby
+user167;466.8;;;Czégel Dávid;Man;nyilt
+user168;;;0;;;
+user169;62.7;;0;Bogi;Woman;senior
+user170;299.2;155.4;99;Tóth Richárd;Man;hobby
+user171;127.2;150.6;;Kéri Viktor;Man;hobby
+user172;212.4;;229.1;Hegyi Áron;Man;nyilt
+user173;219.1;;;Rigó Áron;Man;nyilt
+user174;456.6;;;Lányi Kristóf;Man;nyilt
+user175;1391.1;1318.5;0;Radics Attila;Man;nyilt
+user176;128.5;;;Nagy Brigitta Patrícia;Woman;hobby
+user177;185.6;126.3;153.1;Venglovecz Bence;Man;hobby
+user178;249.1;;;Nagy Botond Kristóf;Man;hobby
+user179;126.1;99;107.8;Láposi Zoltán;Man;hobby
+user180;282.4;220.5;;Lábiscsák László;Man;senior
+user181;134;98.5;102.8;Szekeres Péter;Man;senior
+user182;1107.1;;0;Ian Grilc;Man;nyilt
+user183;111.7;96.3;;Kovács Mátyás;Man;senior
+user184;284.4;518.7;2334.2;Juhász Fanni;Woman;U14
+user185;79;84.4;72.8;Parrag Szilárd;Man;kezdo
+user186;169.3;128;111.4;Molnár Veronika;Woman;hobby
+user187;83;81.7;0;Kazinczi Renato;Man;kezdo
+user188;424;;;Kõrösi Gergõ;Man;nyilt
+user189;;;0;;;
+user190;111.2;106.4;0;Szigligeti Attila;Man;hobby
+user191;148.7;;0;BenceB;Man;hobby
+user192;;;0;;;
+user193;91.3;;;Tóth Gábor;Man;hobby
+user194;193.9;;0;macsaidani;Man;nyilt
+user195;130.7;;83.3;Dr. Nardai Richárd;Man;senior
+user196;1229.2;1298.3;1692.6;Virág Attila;Man;U10
+user197;159;121.8;135.2;Bozsér Kata;Woman;hobby
+user198;623;1555.6;955.6;Virág Nimród;Man;U12
+user199;164;;;Horváth Ákos;Man;hobby
+user200;;;;;;
+user201;102.7;;;Csabber;Man;hobby
+user202;50.9;;;Bihácsi Bence;Man;hobby
+user203;68.1;;0;Baross Bence;Man;hobby
+user204;106.3;98.7;0;Wiesmeyer Eszter;Woman;hobby
+user205;97.3;;0;Szmodics Levente;Man;hobby
+user206;;;0;;;
+user207;186.5;;;Török Mátyás;Man;hobby
+user208;97.8;;0;Doma;Man;hobby
+user209;399.7;576.6;723.4;Karminás Bence Regõ;Man;nyilt
+user210;103;138.4;148;Tavarnai Gergely;Man;hobby
+user211;123.6;100.1;;Hallósy Levente;Man;hobby
+user212;117.8;98.5;93.4;Bliszkó Péter;Man;senior
+user213;71.2;;0;user213;Woman;kezdo
+user214;;;0;;;
+user215;177.1;149.1;197.6;Dobos Olivér;Man;hobby
+user216;276.3;307.1;;Katona Kristóf;Man;nyilt
+user217;;;0;;;
+user218;142.4;129.2;95.5;Balázs Péter;Man;hobby
+user219;102.6;100.3;0;Seidl Anna;Woman;hobby
+user220;102.3;89.4;75.3;Polgár Tamás;Man;kezdo
+user221;92.2;;0;user221;Man;kezdo
+user222;113.2;;0;Kronovitter Lilla;Woman;hobby
+user223;454.3;1544.4;955.6;Kalmár Zsófia;Woman;U12
+user224;224.4;240.7;208.8;Zelena Zsombor;Man;nyilt
+user225;156.1;170.4;93.9;Pintér Emese;Woman;hobby
+user226;90.8;94.7;69.2;Czmorek Dávid;Man;kezdo
+user227;498.2;307;440.4;Imre Léna;Woman;nyilt
+user228;219.2;158.8;140.3;Papp Lajos;Man;masters
+user229;112.7;;;Zima Nándor;Man;senior
+user230;102.3;;0;Luca;Woman;kezdo
+user231;101.2;90.6;74.7;Vincze Dani;Man;kezdo
+user232;104;;;Demény Ágnes;Woman;kezdo
+user233;120.2;;;Kürti Emese;Woman;hobby
+user234;85;;0;Farkas Krisztina;Woman;kezdo
+user235;102.3;;0;Herr Patrik;Man;hobby
+user236;;;0;;;
+user237;83;;64;H. Réka;Woman;hobby
+user238;204;144.7;141.8;Csere Attila;Man;hobby
+user239;;;0;;;
+user240;150.8;;135.3;Krisko Andras;Man;hobby
+user241;58.5;84;154.6;Gál Soma;Man;kezdo
+user242;84.4;;91.3;Dr. Asbóth-Hermányi Lõrinc;Man;kezdo
+user243;74.3;;;Hajdara Tamás;Man;hobby
+user244;100.8;;0;Marosi Gergely;Man;hobby
+user245;50.5;;0;Istvan Miksi;Man;kezdo
+user246;99.7;92.7;76.5;Farkas Katalin;Woman;senior
+user247;211.5;;;Keménylegény;Man;nyilt
+user248;176.6;117.8;;Bátkai Zsolt;Man;hobby
+user249;136.4;;0;vekki;Man;hobby
+user250;113.2;97.1;99.6;Katona Hanna;Woman;kezdo
+user251;;;0;;;
+user252;129.5;122;97.8;Váczi Gábor;Man;hobby
+user253;116.6;;;Sólyom Zoltán;Man;senior
+user254;111;110.8;99.2;Katona Rebeka;Woman;kezdo
+user255;83.6;95.1;80.2;Kolozsváry Júlia;Woman;hobby
+user256;106.7;102.6;;Varga Bálint;Man;hobby
+user257;137.3;105.2;0;Szikszai Petra;Woman;hobby
+user258;177.4;;100.6;Szilárd Péter;Man;hobby
+user259;128.1;;;Ézsöl András;Man;hobby
+user260;102.3;84.4;;Andráskó Dániel;Man;kezdo
+user261;;2270;626.2;Czifra Márton;Man;U16
+user262;;1030.3;;Merényi Marcell;Man;U14
+user263;;;0;;;
+user264;;;0;;;
+user265;;485;714.8;Szilágyi Zalán;Man;U14
+user266;;91.1;;Molnár Flóra Anna;Woman;hobby
+user267;;931.6;;Davi Gábor;Man;U14
+user268;;143.5;151.8;Koczó Attila;Man;hobby
+user269;;;0;;;
+user270;;94.1;;Kondás Dániel;Man;hobby
+user271;;1117.2;985.9;Lábiscsák Csanád;Man;U14
+user272;;124.3;;Bíró Ábrahám Máté;Man;hobby
+user273;;1295.1;;Gazsó Réka;Woman;U10
+user274;;96.7;;Horák Zsófi;Woman;nyilt
+user275;;1284;;Páczelt Lenke;Woman;U10
+user276;;116.9;305.9;Farkas Bence;Man;nyilt
+user277;;;;;;
+user278;;91.1;;Major Mátyás József;Man;hobby
+user279;;1544.4;;Nagy Emese Nelli;Woman;U12
+user280;;109.1;83;Kiss Fruzsina Zoé;Woman;hobby
+user281;;;0;;;
+user282;;118.4;149.4;Tóth Levente;Man;hobby
+user283;;;;;;
+user284;;98.7;;Oláh-Székely Jónás;Man;hobby
+user285;;;;;;
+user286;;91.1;;Kelemen Natália;Woman;hobby
+user287;;;;;;
+user288;;;123.2;Karminás Zolta;Man;nyilt
+user289;;96.6;407.4;Varga Dávid;Man;hobby
+user290;;125.9;45.9;Nádasdi Zoltán Dávid;Man;nyilt
+user291;;54.4;;Varga Bence János;Man;kezdo
+user292;;88.8;;Szabó Roxána;Woman;hobby
+user293;;85;77.3;Fehér Ádám;Man;kezdo
+user294;;;;;;
+user295;;133.2;;Zilin Liu;Woman;hobby
+user296;;;;;;
+user297;;94.7;;Seidl Robert;Man;senior
+user298;;60.8;;Varga Tücsi;Woman;nyilt
+user299;;162.6;;Tarnói Csenge;Woman;hobby
+user300;;123.8;;Görbe Dániel;Man;hobby
+user301;;44.1;71.2;Tóth Lili;Woman;kezdo
+user302;;89.3;;Péter Bálint;Man;hobby
+user303;;115.2;85;Vadász Kristóf;Man;hobby
+user304;;85.6;;Gács Katinka;Woman;hobby
+user305;145.8;105.4;93.5;Vadai András;Man;hobby
+user306;;120.7;134.9;Laki Péter;Man;hobby
+user307;;;;;;
+user308;;140.8;;Rachler Áron;Man;hobby
+user309;;263.7;;Levatic Jurica;Man;hobby
+user310;;;;;;
+user311;;921.5;759.5;Nagy Ambrus;Man;nyilt
+user312;;102.7;93.8;Iga Gergely;Man;hobby
+user313;;262.5;0;Viacheslav Petrov;Man;nyilt
+user314;;158.9;114.2;Török László;Man;hobby
+user315;;77.7;75.7;Minin Peter;Man;hobby
+user316;;;;;;
+user317;;153.9;124.9;Gõsi Dominik;Man;hobby
+user318;;92.5;;Horváth Zsófia;Woman;kezdo
+user319;;90.3;0;Szarka Cecilia;Woman;senior
+user320;;;0;;;
+user321;;;0;;;
+user322;;453.3;366.5;Karminás Zsombor;Man;nyilt
+user323;;77.1;;Tsepennikova Anna;Woman;kezdo
+user324;;;;;;
+user325;;;;;;
+user326;;76.3;;Erdei Rebeka;Woman;kezdo
+user327;;246.6;198.3;Ruzics Bence;Man;hobby
+user328;;186;67.4;Szûcs Kitti;Woman;kezdo
+user329;;;;;;
+user330;;99.2;;Helmle Boáz Péter;Man;kezdo
+user331;;;0;;;
+user332;;;0;;;
+user333;;87.1;0;Garamszegi Anna Bella;Woman;kezdo
+user334;;;;;;
+user335;;;;;;
+user336;;;;;;
+user337;;;;;;
+user338;;88.8;;Kovács Attila;Man;kezdo
+user339;;;96.1;Sajgó Mátyás;Man;hobby
+user340;;89.3;;Tapodi Dániel;Man;hobby
+user341;;175.8;;Dudás István;Man;hobby
+user342;;213.1;222.3;Boros Gyevi Szabolcs;Man;nyilt
+user343;;78.3;153.9;Sós Eszter Viktória;Woman;kezdo
+user344;;91.1;74.7;Dunay Luca;Woman;kezdo
+user345;;;0;;;
+user346;;91.1;77.4;Szvatkó Árpád;Man;kezdo
+user347;;185.9;0;Szegedi Zsombor;Man;hobby
+user348;;90.5;72.7;Szabó Anita;Woman;kezdo
+user349;;697.6;393.7;Tóth Kristóf;Man;nyilt
+user350;;;;;;
+user351;;;;;;
+user352;;;;;;
+user353;;333.7;307.8;Horváth Ágoston;Man;nyilt
+user354;;112;86.9;Csáki Bence;Man;kezdo
+user355;;391.8;;Egressy András;Man;nyilt
+user356;;;0;;;
+user357;;96.5;79.2;Németh Norbert;Man;kezdo
+user358;;;;;;
+user359;;103.9;81;Mészáros Árpád József;Man;hobby
+user360;;99.3;82.7;Molnár Gábor;Man;hobby
+user361;;94.5;;Robotka Adrián;Man;kezdo
+user362;;61;;Karner Bogi;Woman;kezdo
+user363;;;;;;
+user364;;121.9;;Sándor Gergely;Man;hobby
+user365;;;;;;
+user366;;;;;;
+user367;;;;;;
+user368;;;184;Fõzõ András;Man;hobby
+user369;;;;;;
+user370;;91.1;;Szili-Kis Tamás;Man;kezdo
+user371;;98;93.8;Schmidt Péter;Man;hobby
+user372;;83;;Varga Balázs;Man;hobby
+user373;;;0;;;
+user374;;87.6;0;Szabolcs Botond;Man;hobby
+user375;;99.3;81.6;Vincze Csaba;Man;hobby
+user376;;95.5;;Lõrincz Tibor;Man;hobby
+user377;;195;336.6;Molnár Boglárka;Woman;nyilt
+user378;;;;;;
+user379;;111.5;;Daróczi Balázs;Man;hobby
+user380;;96.5;;Pétervári Olivér;Man;hobby
+user381;;124;136.5;Sági Ádám Adrián;Man;hobby
+user382;;98.5;77.2;Pal Peter Akos;Man;hobby
+user383;;147.7;;Csongvay Péter;Man;hobby
+user384;;370.2;230;Benke Bálint;Man;nyilt
+user385;;227.2;;Balázs Vince;Man;nyilt
+user386;;272.2;;Torma Bence;Man;nyilt
+user387;;34.8;;Dóczi Ágnes;Woman;kezdo
+user388;;;;;;
+user389;;;;;;
+user390;;;;;;
+user391;;27.6;;Pusztai Alba;Woman;kezdo
+user392;;;;;;
+user393;;;;;;
+user394;;;;;;
+user395;;;;;;
+user396;;;;;;
+user397;;109.5;95.6;Travnik Gergely;Man;hobby
+user398;;106.8;107.1;Koncz Balázs;Man;hobby
+user399;;;0;;;
+user400;;86.8;0;Benadad Orozco Lopez;Man;hobby
+user401;;90;;Boda Árpád;Man;kezdo
+user402;;103;94.4;Sári Zsombor;Man;hobby
+user403;;1239.4;;Váraljai Márton;Man;U14
+user404;;159;122.8;Bubb Ferenc;Man;masters
+user405;;169.6;0;Inky Pinky;Woman;nyilt
+user406;;96.6;0;Szokolai Gergely;Man;hobby
+user407;;350.4;300.5;Jároli Nóra;Woman;nyilt
+user408;;;;;;
+user409;;1456;;Tusnády Nimród;Man;nyilt
+user410;;94;;Szabó Kinga;Woman;senior
+user411;;160;;Tóth Vince (felnõtt er.);Man;nyilt
+user412;;93.6;;Vörös Laura;Woman;hobby
+user413;;;;Gyergyák Balázs;;
+user414;;;76.5;Gyõri Dániel;Man;kezdo
+user415;;31.1;;Kocsis-Kövér Orsolya;Woman;senior
+user416;;;79.2;Pajor Olivér Joakim;Man;kezdo
+user417;;1061.8;;Selmeczy Martin;Man;U10
+user418;;;96.1;Niederkirchner Alexandra;Woman;hobby
+user419;;890.9;;Farkas Lili;Woman;U10
+user420;;;135.8;Selmeczy Martin;Man;hobby
+user421;;2600;;Molnár Alíz;Woman;U16
+user422;;;71.4;Zana Roland;Man;kezdo
+user423;;;79.3;Szivák Gábor;Man;kezdo
+user424;;;76.5;Dulganov Natasa;Woman;kezdo
+user425;;;83.6;Kujbus Marcell;Man;hobby
+user426;;;78;Erdõs Orsolya;Woman;senior
+user427;;;0;;;
+user428;;;63.9;Fehér István;Man;kezdo
+user429;;;;;;
+user430;;;86.2;Kulcsár Dorottya;Woman;hobby
+user431;;;97.7;Spergel Dániel;Man;hobby
+user432;;;132.8;Kurucz Levente;Man;hobby
+user433;;;0;;;
+user434;;;82.1;Nosal András;Man;senior
+user435;;;75.5;Catanzaro Tamas;Man;kezdo
+user436;;;0;;;
+user437;;;0;;;
+user438;;;79.7;Sallay Tamás;Man;kezdo
+user439;;;66.6;Blazsek Attila;Man;kezdo
+user440;;;147.4;Rikli Ákos;Man;hobby
+user441;;;84.7;Korondi-Katona Tímea;Woman;hobby
+user442;;;329.8;Korondi Áron;Man;nyilt
+user443;;;138.8;Berczi Miklós;Man;hobby
+user444;;;79.2;Daruka Lili;Woman;kezdo
+user445;;;99.5;Petra Gerencsér;Woman;hobby
+user446;;;244.3;Montvai Dániel;Man;nyilt
+user447;;;67.5;Varga Zsófia;Woman;kezdo
+user448;;;0;;;
+user449;;;0;;;
+user450;;;80.2;Szappanos Ágnes;Woman;masters
+user451;;;78.8;Papp Gergõ;Man;kezdo
+user452;;;76.2;Hidas Réka;Woman;kezdo
+user453;;;175.6;Sárvári Dávid;Man;hobby
+user454;;;68;Solymosi Ernõ;Man;kezdo
+user455;;;0;;;
+user456;;;81;Sándor András;Man;hobby
+user457;;;0;;;
+user458;;;430.2;Sebestyén Steiner;Man;nyilt
+user459;;223.6;212.9;Kocsis Richárd;Man;senior
+user460;;;75.5;Török István Csongor;Man;kezdo
+user461;;;70.1;Biri Ádám;Man;kezdo
+user462;;;68.2;Luca Szabo;Woman;kezdo
+user463;;;191.5;Asztalos Ádám;Man;hobby
+user464;;;72;Szilágyi István;Man;kezdo
+user465;;;75.5;Nagy Marcell Szilveszter;Man;kezdo
+user466;;;54.5;Siménfalvy Csongor;Man;kezdo
+user467;;;73.9;Sábián Róbert;Man;kezdo
+user468;;;104.9;Molnár Gergõ;Man;hobby
+user469;;;92.4;Latorre Nataniel Nándor;Man;hobby
+user470;;;76.5;Szûcs Edit;Woman;kezdo
+user471;;;55.8;Balla Réka;Woman;kezdo
+user472;;;243.1;Borbély Gábor;Man;nyilt
+user473;;;75.4;Major Dávid;Man;hobby
+user474;;;79.8;Kondacs Laszlo;Man;hobby
+user475;;;1200;Biri Anna Noa;Woman;U10
+user476;;;;;;
+user477;;;0;;;
+user478;;;72;Gyöngyösi András;Man;kezdo
+user479;;;0;;;
+user480;;;77.8;Bereznay Bence;Man;kezdo
+user481;;;67.7;Willmann Máté;Man;kezdo
+user482;;;63.4;Nguyen Quang Hoa;Man;kezdo
+user483;;;82.1;Iris King;Woman;hobby
+user484;;;78.3;Kis Krisztián;Man;kezdo
+user485;;;78.1;Kolozsvári Dávid;Man;hobby
+user486;;;75.1;Kolozsvári Csongor;Man;hobby
+user487;;;90;Polgárdy Simon;Man;hobby
+user488;;;0;;;
+user489;;;;;;
+user490;;;0;;;
+user491;;;440.8;Fehér Gábor;Man;nyilt
+user492;;;0;;;
+user493;;;119;Németh Péter;Man;hobby
+user494;;;643.8;Dancz-Polczer Laura Csepke;Woman;U16
+user495;;;70.6;Vass Gergõ;Man;hobby
+user496;;;321.1;Kicsis-Kis Hanna;Woman;U14
+user497;;;79.7;Csurdi Csenge;Woman;hobby
+user498;;;75.5;Palotás Bálint Ádám;Man;kezdo
+user499;;;76.5;Adam Hamilton;Man;hobby
+user500;;;103;Süle Szilvia;Woman;hobby
+user501;;;87.7;Szemán Krisztián;Man;hobby
+user502;;;76.1;Salma Taoufiq;Woman;hobby
+user503;;;76.6;Tarnavölgyi Csilla;Woman;hobby
+user504;;;0;;;
+user505;;;0;;;
+user506;;;228.6;Kulin Bence Noel;Man;U16
+user507;;;79;Erdész Zsolt;Man;hobby
+user508;;;0;;;
+user509;;;114.4;Hõs Dávid;Man;hobby
+user510;;;68.4;Fekete Boglárka;Woman;kezdo
+user511;;;2555.5;Rónai Zalán;Man;U16
+user512;;;156.8;Szirbik Bence;Man;hobby
+user513;;;100.9;Gögge Ádám;Man;hobby
+user514;;;218.4;Gonda Zoltán Sebestyén;Man;hobby
+user515;;;155.3;Németh Norbert;Man;hobby
+user516;;;0;;;
+user517;;;49;Tatár Jamina;Woman;kezdo
+user518;;;0;;;
+user519;;;149.7;Hamar György József;Man;hobby
+user520;;;682.6;Kalinowski Anna;Woman;U12
+user521;;;364;Torh Viki;Woman;nyilt
+user522;;;83.6;Rimár Zorka;Woman;hobby
+user523;;;;;;
+user524;;;;;;
+user525;;;;;;
+user526;;;454.4;Kókai Zsófia Dorka;Woman;U14
+user527;;;682.6;Kókai Emese Nóra;Woman;U12
+user528;;;203.9;Yaroslav;Man;nyilt
+user529;;;73.3;Molnár Gábor;Man;kezdo
+user530;;;110.1;Fekete Dávid;Man;nyilt
+user531;;;135.8;Kustár Dániel;Man;hobby
+user532;;;620.8;Jenei Panni;Woman;U12
+user533;;;;;;
+user534;;;676.8;Komjáti Zoltán;Man;nyilt
+user535;;;;;;
+user536;;;;;;
+user537;;;;;;
+user538;;;;;;
+user539;;;;;;
+user540;;;;;;
+user541;;;;;;
+user542;;;;;;
+user543;;;;;;
+user544;;;;;;
+user545;;;;;;
+user546;;;;;;
+user547;;;;;;
+user548;;;;;;
+user549;;;;;;
+user550;;;;;;
+user551;;;;;;
+user552;;;;;;
+user553;;;;;;
+user554;;;;;;
+user555;;;;;;
+user556;;;;;;
+user557;;;;;;
+user558;;;;;;
+user559;;;;;;
+user560;;;;;;
+user561;;;;;;
+user562;;;;;;
+user563;;;;;;
+user564;;;;;;
+user565;;;;;;
+user566;;;;;;
+user567;;;;;;
+user568;;;;;;
+user569;;;;;;
+user570;;;;;;
+user571;;;;;;
+user572;;;;;;
+user573;;;;;;
+user574;;;;;;
+user575;;;;;;
+user576;;;;;;
+user577;;;;;;
+user578;;;;;;
+user579;;;;;;
+user580;;;;;;
+user581;;;;;;
+user582;;;;;;
+user583;;;;;;
+user584;;;;;;
+user585;;;;;;
+user586;;;;;;
+user587;;;;;;
+user588;;;;;;
+user589;;;;;;
+user590;;;;;;
+user591;;;;;;
+user592;;;;;;
+user593;;;;;;
+user594;;;;;;
+user595;;;;;;
+user596;;;;;;
+user597;;;;;;
+user598;;;;;;
+user599;;;;;;
+user600;;;;;;
